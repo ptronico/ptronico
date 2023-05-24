@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- [LinkedIn](https://www.linkedin.com/in/pvasconcelos/)
+- [PDF Resume](https://github.com/ptronico/ptronico/blob/main/Pedro-Vasconcelos-Resume.pdf)
+
 <!--
 **ptronico/ptronico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
